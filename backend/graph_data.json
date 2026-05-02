@@ -1,0 +1,8070 @@
+{
+  "nodes": [
+    {
+      "id": "Brazil",
+      "label": "Brazil",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:24:36.306776"
+      }
+    },
+    {
+      "id": "China",
+      "label": "China",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:24:36.306776"
+      }
+    },
+    {
+      "id": "Inter Miami",
+      "label": "Inter Miami",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:24:37.450232"
+      }
+    },
+    {
+      "id": "Barcelona",
+      "label": "Barcelona",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:24:37.450232"
+      }
+    },
+    {
+      "id": "London",
+      "label": "London",
+      "type": "LOC",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:24:37.450232"
+      }
+    },
+    {
+      "id": "Apple",
+      "label": "Apple",
+      "type": "ORG",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:24:38.817436"
+      }
+    },
+    {
+      "id": "Interpol",
+      "label": "Interpol",
+      "type": "ORG",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:24:39.804014"
+      }
+    },
+    {
+      "id": "Germany",
+      "label": "Germany",
+      "type": "LOC",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:24:39.804014"
+      }
+    },
+    {
+      "id": "Airbnb",
+      "label": "Airbnb",
+      "type": "ORG",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:24:41.569133"
+      }
+    },
+    {
+      "id": "Sydney",
+      "label": "Sydney",
+      "type": "LOC",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:24:41.569133"
+      }
+    },
+    {
+      "id": "Bitcoin",
+      "label": "Bitcoin",
+      "type": "ORG",
+      "meta": {
+        "category": "finance",
+        "timestamp": "2026-05-01T10:24:45.164902"
+      }
+    },
+    {
+      "id": "VIDIA",
+      "label": "VIDIA",
+      "type": "ORG",
+      "meta": {
+        "category": "finance",
+        "timestamp": "2026-05-01T10:24:46.125668"
+      }
+    },
+    {
+      "id": "Singapore",
+      "label": "Singapore",
+      "type": "LOC",
+      "meta": {
+        "category": "space",
+        "timestamp": "2026-05-01T10:24:47.167707"
+      }
+    },
+    {
+      "id": "Mars",
+      "label": "Mars",
+      "type": "LOC",
+      "meta": {
+        "category": "space",
+        "timestamp": "2026-05-01T10:24:47.167707"
+      }
+    },
+    {
+      "id": "Emmanuel Macron",
+      "label": "Emmanuel Macron",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:24:48.563613"
+      }
+    },
+    {
+      "id": "India",
+      "label": "India",
+      "type": "LOC",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:24:48.563613"
+      }
+    },
+    {
+      "id": "Joe Biden",
+      "label": "Joe Biden",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:24:51.738324"
+      }
+    },
+    {
+      "id": "SpaceX",
+      "label": "SpaceX",
+      "type": "ORG",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:24:53.113137"
+      }
+    },
+    {
+      "id": "Harvard",
+      "label": "Harvard",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:24:54.135724"
+      }
+    },
+    {
+      "id": "Tim Cook",
+      "label": "Tim Cook",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:24:56.312419"
+      }
+    },
+    {
+      "id": "Microsoft",
+      "label": "Microsoft",
+      "type": "ORG",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:24:58.347454"
+      }
+    },
+    {
+      "id": "AI",
+      "label": "AI",
+      "type": "MISC",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:24:58.347454"
+      }
+    },
+    {
+      "id": "Sam Altman",
+      "label": "Sam Altman",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:25:00.112493"
+      }
+    },
+    {
+      "id": "Real Madrid",
+      "label": "Real Madrid",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:25:00.112493"
+      }
+    },
+    {
+      "id": "Sundar Pichai",
+      "label": "Sundar Pichai",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:01.231131"
+      }
+    },
+    {
+      "id": "Dubai",
+      "label": "Dubai",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:01.231131"
+      }
+    },
+    {
+      "id": "Japan",
+      "label": "Japan",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:05.443672"
+      }
+    },
+    {
+      "id": "Spotify",
+      "label": "Spotify",
+      "type": "ORG",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:25:07.337060"
+      }
+    },
+    {
+      "id": "Berlin",
+      "label": "Berlin",
+      "type": "LOC",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:25:07.337060"
+      }
+    },
+    {
+      "id": "UAE",
+      "label": "UAE",
+      "type": "LOC",
+      "meta": {
+        "category": "health",
+        "timestamp": "2026-05-01T10:25:08.957935"
+      }
+    },
+    {
+      "id": "Lionel Messi",
+      "label": "Lionel Messi",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:10.123648"
+      }
+    },
+    {
+      "id": "rist",
+      "label": "rist",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:12.088064"
+      }
+    },
+    {
+      "id": "iano Ronaldo",
+      "label": "iano Ronaldo",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:12.088064"
+      }
+    },
+    {
+      "id": "New York",
+      "label": "New York",
+      "type": "LOC",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:25:13.979693"
+      }
+    },
+    {
+      "id": "Amazon",
+      "label": "Amazon",
+      "type": "ORG",
+      "meta": {
+        "category": "space",
+        "timestamp": "2026-05-01T10:25:17.620079"
+      }
+    },
+    {
+      "id": "IISc Bangalore",
+      "label": "IISc Bangalore",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:25:19.417012"
+      }
+    },
+    {
+      "id": "Google",
+      "label": "Google",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:25:19.417012"
+      }
+    },
+    {
+      "id": "UK",
+      "label": "UK",
+      "type": "LOC",
+      "meta": {
+        "category": "environment",
+        "timestamp": "2026-05-01T10:25:21.512724"
+      }
+    },
+    {
+      "id": "Jensen Huang",
+      "label": "Jensen Huang",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:23.700751"
+      }
+    },
+    {
+      "id": "Australia",
+      "label": "Australia",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:23.700751"
+      }
+    },
+    {
+      "id": "ESA",
+      "label": "ESA",
+      "type": "ORG",
+      "meta": {
+        "category": "space",
+        "timestamp": "2026-05-01T10:25:29.223968"
+      }
+    },
+    {
+      "id": "Adobe",
+      "label": "Adobe",
+      "type": "ORG",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:25:32.592844"
+      }
+    },
+    {
+      "id": "France",
+      "label": "France",
+      "type": "LOC",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:25:32.592844"
+      }
+    },
+    {
+      "id": "Oxford",
+      "label": "Oxford",
+      "type": "ORG",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:25:35.972808"
+      }
+    },
+    {
+      "id": "Oracle",
+      "label": "Oracle",
+      "type": "ORG",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:25:41.321390"
+      }
+    },
+    {
+      "id": "IIT Bombay",
+      "label": "IIT Bombay",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:25:44.424656"
+      }
+    },
+    {
+      "id": "USA",
+      "label": "USA",
+      "type": "LOC",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:25:46.238293"
+      }
+    },
+    {
+      "id": "Uber",
+      "label": "Uber",
+      "type": "ORG",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:25:51.395823"
+      }
+    },
+    {
+      "id": "Tokyo",
+      "label": "Tokyo",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:25:52.701333"
+      }
+    },
+    {
+      "id": "Liverpool",
+      "label": "Liverpool",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:25:58.917423"
+      }
+    },
+    {
+      "id": "Mumbai",
+      "label": "Mumbai",
+      "type": "LOC",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:26:00.269962"
+      }
+    },
+    {
+      "id": "Tesla",
+      "label": "Tesla",
+      "type": "ORG",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:26:03.535193"
+      }
+    },
+    {
+      "id": "El",
+      "label": "El",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:26:05.063546"
+      }
+    },
+    {
+      "id": "on Musk",
+      "label": "on Musk",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:26:05.063546"
+      }
+    },
+    {
+      "id": "OpenAI",
+      "label": "OpenAI",
+      "type": "ORG",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:26:11.644640"
+      }
+    },
+    {
+      "id": "Samsung",
+      "label": "Samsung",
+      "type": "ORG",
+      "meta": {
+        "category": "health",
+        "timestamp": "2026-05-01T10:26:13.557930"
+      }
+    },
+    {
+      "id": "Intel",
+      "label": "Intel",
+      "type": "ORG",
+      "meta": {
+        "category": "finance",
+        "timestamp": "2026-05-01T10:26:15.013453"
+      }
+    },
+    {
+      "id": "PSG",
+      "label": "PSG",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:26:15.827301"
+      }
+    },
+    {
+      "id": "Mumbai Indians",
+      "label": "Mumbai Indians",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:26:25.136467"
+      }
+    },
+    {
+      "id": "Elon Musk",
+      "label": "Elon Musk",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:26:25.136467"
+      }
+    },
+    {
+      "id": "Salesforce",
+      "label": "Salesforce",
+      "type": "ORG",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:26:27.503154"
+      }
+    },
+    {
+      "id": "ira",
+      "label": "ira",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:26:33.778072"
+      }
+    },
+    {
+      "id": "t Kohli",
+      "label": "t Kohli",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:26:33.778072"
+      }
+    },
+    {
+      "id": "Meta",
+      "label": "Meta",
+      "type": "ORG",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:26:35.176627"
+      }
+    },
+    {
+      "id": "ST",
+      "label": "ST",
+      "type": "MISC",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:26:36.546605"
+      }
+    },
+    {
+      "id": "Canada",
+      "label": "Canada",
+      "type": "LOC",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T10:26:45.470059"
+      }
+    },
+    {
+      "id": "UN",
+      "label": "UN",
+      "type": "ORG",
+      "meta": {
+        "category": "environment",
+        "timestamp": "2026-05-01T10:26:46.521642"
+      }
+    },
+    {
+      "id": "Toronto",
+      "label": "Toronto",
+      "type": "LOC",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:26:54.122455"
+      }
+    },
+    {
+      "id": "IBM",
+      "label": "IBM",
+      "type": "ORG",
+      "meta": {
+        "category": "cyber",
+        "timestamp": "2026-05-01T10:26:58.107329"
+      }
+    },
+    {
+      "id": "WHO",
+      "label": "WHO",
+      "type": "ORG",
+      "meta": {
+        "category": "health",
+        "timestamp": "2026-05-01T10:27:03.933756"
+      }
+    },
+    {
+      "id": "NASA",
+      "label": "NASA",
+      "type": "ORG",
+      "meta": {
+        "category": "space",
+        "timestamp": "2026-05-01T10:27:18.108135"
+      }
+    },
+    {
+      "id": "Chennai Super Kings",
+      "label": "Chennai Super Kings",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:27:24.484856"
+      }
+    },
+    {
+      "id": "Paris",
+      "label": "Paris",
+      "type": "LOC",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:27:38.601928"
+      }
+    },
+    {
+      "id": "Ko",
+      "label": "Ko",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:27:40.568069"
+      }
+    },
+    {
+      "id": "hli",
+      "label": "hli",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:27:40.568069"
+      }
+    },
+    {
+      "id": "Cambridge",
+      "label": "Cambridge",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:27:50.308099"
+      }
+    },
+    {
+      "id": "MIT",
+      "label": "MIT",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:28:02.236290"
+      }
+    },
+    {
+      "id": "Stanford",
+      "label": "Stanford",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T10:28:35.235353"
+      }
+    },
+    {
+      "id": "Apollo Hospitals",
+      "label": "Apollo Hospitals",
+      "type": "ORG",
+      "meta": {
+        "category": "health",
+        "timestamp": "2026-05-01T10:28:51.749707"
+      }
+    },
+    {
+      "id": "AR",
+      "label": "AR",
+      "type": "MISC",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:28:55.149143"
+      }
+    },
+    {
+      "id": "NVIDIA",
+      "label": "NVIDIA",
+      "type": "ORG",
+      "meta": {
+        "category": "ai",
+        "timestamp": "2026-05-01T10:29:08.642310"
+      }
+    },
+    {
+      "id": "Sun",
+      "label": "Sun",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:29:36.315951"
+      }
+    },
+    {
+      "id": "dar Pichai",
+      "label": "dar Pichai",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T10:29:36.315951"
+      }
+    },
+    {
+      "id": "Spot",
+      "label": "Spot",
+      "type": "ORG",
+      "meta": {
+        "category": "space",
+        "timestamp": "2026-05-01T10:29:58.713962"
+      }
+    },
+    {
+      "id": "t Kohl",
+      "label": "t Kohl",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:30:30.609416"
+      }
+    },
+    {
+      "id": "Narendra Modi",
+      "label": "Narendra Modi",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:30:37.210843"
+      }
+    },
+    {
+      "id": "ristiano Ronaldo",
+      "label": "ristiano Ronaldo",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:30:55.897311"
+      }
+    },
+    {
+      "id": "Mark Zuckerberg",
+      "label": "Mark Zuckerberg",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T10:32:12.323204"
+      }
+    },
+    {
+      "id": "ETH Zurich",
+      "label": "ETH Zurich",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T12:51:35.777565"
+      }
+    },
+    {
+      "id": "Met",
+      "label": "Met",
+      "type": "MISC",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T12:52:14.422576"
+      }
+    },
+    {
+      "id": "Na",
+      "label": "Na",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T12:52:21.899020"
+      }
+    },
+    {
+      "id": "ren",
+      "label": "ren",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T12:52:21.899020"
+      }
+    },
+    {
+      "id": "dra Modi",
+      "label": "dra Modi",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T12:52:21.899020"
+      }
+    },
+    {
+      "id": "Airb",
+      "label": "Airb",
+      "type": "ORG",
+      "meta": {
+        "category": "business",
+        "timestamp": "2026-05-01T12:54:09.571318"
+      }
+    },
+    {
+      "id": "Sa",
+      "label": "Sa",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T12:54:18.633202"
+      }
+    },
+    {
+      "id": "tya Nadella",
+      "label": "tya Nadella",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T12:54:18.633202"
+      }
+    },
+    {
+      "id": "Naren",
+      "label": "Naren",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T12:54:33.609000"
+      }
+    },
+    {
+      "id": "ty",
+      "label": "ty",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T12:54:49.876054"
+      }
+    },
+    {
+      "id": "a Nadella",
+      "label": "a Nadella",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T12:54:49.876054"
+      }
+    },
+    {
+      "id": "NVI",
+      "label": "NVI",
+      "type": "LOC",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T12:56:09.212801"
+      }
+    },
+    {
+      "id": "DI",
+      "label": "DI",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T12:56:09.212801"
+      }
+    },
+    {
+      "id": "rendra Modi",
+      "label": "rendra Modi",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T12:58:06.105259"
+      }
+    },
+    {
+      "id": "Satya Nadella",
+      "label": "Satya Nadella",
+      "type": "PER",
+      "meta": {
+        "category": "politics",
+        "timestamp": "2026-05-01T13:00:04.685545"
+      }
+    },
+    {
+      "id": "on",
+      "label": "on",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T13:02:39.260898"
+      }
+    },
+    {
+      "id": "Musk",
+      "label": "Musk",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T13:02:39.260898"
+      }
+    },
+    {
+      "id": "rendra",
+      "label": "rendra",
+      "type": "ORG",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T13:02:43.165639"
+      }
+    },
+    {
+      "id": "Modi",
+      "label": "Modi",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T13:02:43.165639"
+      }
+    },
+    {
+      "id": "Sales",
+      "label": "Sales",
+      "type": "MISC",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T13:07:14.497213"
+      }
+    },
+    {
+      "id": "force",
+      "label": "force",
+      "type": "ORG",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T13:07:14.497213"
+      }
+    },
+    {
+      "id": "ber",
+      "label": "ber",
+      "type": "MISC",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T13:18:38.775470"
+      }
+    },
+    {
+      "id": "VI",
+      "label": "VI",
+      "type": "LOC",
+      "meta": {
+        "category": "education",
+        "timestamp": "2026-05-01T13:22:41.885617"
+      }
+    },
+    {
+      "id": "Sundar Picha",
+      "label": "Sundar Picha",
+      "type": "PER",
+      "meta": {
+        "category": "sports",
+        "timestamp": "2026-05-01T13:28:39.730499"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "Brazil",
+      "target": "China",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Brazil signed a trade pact with China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "China",
+      "label": "signed_by",
+      "meta": {
+        "text": "Brazil signed a trade pact with China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Barcelona",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Barcelona in London.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "Germany",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in Germany.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb detected phishing campaigns in Sydney.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Singapore announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "India",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Emmanuel Macron won the championship in India.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Joe Biden announced new reforms in China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Apple",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Harvard partnered with Apple on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tim Cook announced new reforms in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Microsoft introduced an enterprise AI assistant.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Real Madrid",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sam Altman scored twice for Real Madrid.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Sam Altman",
+      "label": "met_with",
+      "meta": {
+        "text": "Sundar Pichai met Sam Altman in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "NVIDIA announced next-gen AI chips in Singapore.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Sydney",
+      "label": "hosted",
+      "meta": {
+        "text": "Japan hosted a diplomatic summit in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Spotify detected phishing campaigns in Berlin.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Lionel Messi",
+      "label": "met_with",
+      "meta": {
+        "text": "Sam Altman met Lionel Messi in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "rist",
+      "target": "iano Ronaldo",
+      "label": "met_with",
+      "meta": {
+        "text": "Cristiano Ronaldo met Emmanuel Macron in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "New York",
+      "label": "located_in",
+      "meta": {
+        "text": "SpaceX opened a new office in New York.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon launched a satellite from London.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Google",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IISc Bangalore partnered with Google on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Australia",
+      "label": "visited",
+      "meta": {
+        "text": "Jensen Huang visited Australia for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Amazon",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Amazon.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Amazon",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Amazon.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Brazil signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "Brazil signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe expanded cloud AI services in France.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Oxford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Apple partnered with Oxford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Oracle",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Spotify partnered with Oracle to expand in Japan.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Adobe",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IIT Bombay partnered with Adobe on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Jensen Huang won the championship in USA.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "SpaceX",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with SpaceX.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "SpaceX",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with SpaceX.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber announced next-gen AI chips in Dubai.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Tim Cook",
+      "label": "met_with",
+      "meta": {
+        "text": "Emmanuel Macron met Tim Cook in Tokyo.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "VIDIA",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oxford partnered with NVIDIA on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "UAE",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Brazil signed a trade pact with UAE.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "UAE",
+      "label": "signed_by",
+      "meta": {
+        "text": "Brazil signed a trade pact with UAE.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "China",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Airbnb signed a logistics deal in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "China",
+      "label": "signed_by",
+      "meta": {
+        "text": "Airbnb signed a logistics deal in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Liverpool",
+      "label": "scored_for",
+      "meta": {
+        "text": "Tim Cook scored twice for Liverpool.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Mumbai",
+      "label": "located_in",
+      "meta": {
+        "text": "Uber opened a new office in Mumbai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sam Altman won the championship in China.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Harvard",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Tesla partnered with Harvard on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "El",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Elon Musk for $1944 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Brazil signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "Brazil signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Spotify",
+      "label": "partnered_with",
+      "meta": {
+        "text": "OpenAI partnered with Spotify to expand in Japan.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Jensen Huang",
+      "label": "signed_by",
+      "meta": {
+        "text": "PSG signed Jensen Huang for $2837 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb launched a satellite from Berlin.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "Elon Musk",
+      "label": "signed_by",
+      "meta": {
+        "text": "Mumbai Indians signed Elon Musk for $3216 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "VIDIA",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Salesforce partnered with NVIDIA to expand in USA.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "t Kohli",
+      "label": "met_with",
+      "meta": {
+        "text": "Virat Kohli met Elon Musk in Berlin.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta detected phishing campaigns in Singapore.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "France",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "France funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "UK",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sundar Pichai announced new reforms in UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Uber",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Uber.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Uber",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Uber.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "Brazil funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Oracle signed a logistics deal in Germany.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "Oracle signed a logistics deal in Germany.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Canada",
+      "label": "partnered_with",
+      "meta": {
+        "text": "SpaceX partnered with SpaceX to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "Australia",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in Australia.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Japan announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Toronto",
+      "label": "hosted",
+      "meta": {
+        "text": "Japan hosted a diplomatic summit in Toronto.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "rist",
+      "label": "met_with",
+      "meta": {
+        "text": "Sundar Pichai met Cristiano Ronaldo in Mumbai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe detected phishing campaigns in Mumbai.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "India",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in India.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "UAE funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "El",
+      "target": "on Musk",
+      "label": "scored_for",
+      "meta": {
+        "text": "Elon Musk scored twice for Mumbai Indians.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Emmanuel Macron won the championship in Singapore.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IIT Bombay launched robotics center in Mumbai.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Berlin",
+      "label": "located_in",
+      "meta": {
+        "text": "Tesla opened a new office in Berlin.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "OpenAI",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with OpenAI for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "IBM",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with IBM.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "IBM",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with IBM.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "rist",
+      "target": "iano Ronaldo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Cristiano Ronaldo announced new reforms in Japan.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "Chennai Super Kings",
+      "label": "defeated",
+      "meta": {
+        "text": "Real Madrid defeated Chennai Super Kings in Berlin.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "ira",
+      "label": "met_with",
+      "meta": {
+        "text": "Tim Cook met Virat Kohli in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Tesla partnered with Airbnb to expand in Japan.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Harvard partnered with Salesforce on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb announced next-gen AI chips in Paris.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "Ko",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Virat Kohli won the championship in Brazil.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Airbnb partnered with Salesforce to expand in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Real Madrid",
+      "label": "scored_for",
+      "meta": {
+        "text": "Tim Cook scored twice for Real Madrid.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IISc Bangalore launched robotics center in Singapore.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "Germany",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in Germany.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "Japan funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Inter Miami",
+      "label": "scored_for",
+      "meta": {
+        "text": "Tim Cook scored twice for Inter Miami.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung expanded cloud AI services in China.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Brazil",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Salesforce signed a logistics deal in Brazil.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Brazil",
+      "label": "signed_by",
+      "meta": {
+        "text": "Salesforce signed a logistics deal in Brazil.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "MIT introduced AI curriculum with Microsoft.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta launched a satellite from London.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oracle detected phishing campaigns in Berlin.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "t Kohli",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Virat Kohli won the championship in UK.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "rist",
+      "target": "iano Ronaldo",
+      "label": "scored_for",
+      "meta": {
+        "text": "Cristiano Ronaldo scored twice for Chennai Super Kings.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in Singapore.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Cambridge",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Cambridge introduced AI curriculum with Amazon.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Google signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "Google signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in USA.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Spotify",
+      "label": "acquired",
+      "meta": {
+        "text": "Intel acquired Spotify for $3320 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Stanford launched robotics center in New York.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "Brazil",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in Brazil.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Brazil",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Japan signed a trade pact with Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Brazil",
+      "label": "signed_by",
+      "meta": {
+        "text": "Japan signed a trade pact with Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Barcelona",
+      "label": "defeated",
+      "meta": {
+        "text": "PSG defeated Barcelona in London.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "India",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "India announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Tokyo",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Tokyo.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung introduced an enterprise AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in Canada.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "USA",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "USA funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "MIT",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NVIDIA partnered with MIT on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Oracle",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Oracle.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Oracle",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Oracle.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Mumbai Indians",
+      "label": "defeated",
+      "meta": {
+        "text": "Chennai Super Kings defeated Mumbai Indians in Tokyo.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Barcelona",
+      "label": "scored_for",
+      "meta": {
+        "text": "Tim Cook scored twice for Barcelona.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Inter Miami",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sundar Pichai scored twice for Inter Miami.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Oxford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IBM partnered with Oxford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Brazil",
+      "label": "visited",
+      "meta": {
+        "text": "Jensen Huang visited Brazil for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "USA",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "USA announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Liverpool",
+      "target": "Mumbai Indians",
+      "label": "defeated",
+      "meta": {
+        "text": "Liverpool defeated Mumbai Indians in Sydney.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Spotify expanded cloud AI services in India.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "Amazon opened a new office in London.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "Australia",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in Australia.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Sun",
+      "label": "met_with",
+      "meta": {
+        "text": "Tim Cook met Sundar Pichai in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "USA",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Salesforce partnered with Salesforce to expand in USA.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "NVIDIA opened a new office in Toronto.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "China",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "China funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "OpenAI",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Spotify partnered with OpenAI to expand in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX detected phishing campaigns in Singapore.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "France",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Australia signed a trade pact with France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "France",
+      "label": "signed_by",
+      "meta": {
+        "text": "Australia signed a trade pact with France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Jensen Huang won the championship in Singapore.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Intel",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Spotify invested $4978 million in Intel.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "Japan",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in Japan.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Elon Musk",
+      "target": "Australia",
+      "label": "visited",
+      "meta": {
+        "text": "Elon Musk visited Australia for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "IIT Bombay",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oracle partnered with IIT Bombay on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Apple announced next-gen AI chips in Toronto.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Intel",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IBM partnered with Intel to expand in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "India",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "UAE signed a trade pact with India.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "India",
+      "label": "signed_by",
+      "meta": {
+        "text": "UAE signed a trade pact with India.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "Singapore funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM detected phishing campaigns in Berlin.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "t Kohl",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Virat Kohli won the championship in Canada.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Liverpool",
+      "target": "PSG",
+      "label": "defeated",
+      "meta": {
+        "text": "Liverpool defeated PSG in Singapore.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Narendra Modi",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Narendra Modi for $1931 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Tesla",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Tesla for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta launched a satellite from New York.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX announced next-gen AI chips in London.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber detected phishing campaigns in Tokyo.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "China",
+      "label": "visited",
+      "meta": {
+        "text": "Jensen Huang visited China for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "France",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Japan signed a trade pact with France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "France",
+      "label": "signed_by",
+      "meta": {
+        "text": "Japan signed a trade pact with France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Adobe",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Adobe for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ristiano Ronaldo",
+      "target": "Barcelona",
+      "label": "scored_for",
+      "meta": {
+        "text": "Cristiano Ronaldo scored twice for Barcelona.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Liverpool",
+      "target": "Tim Cook",
+      "label": "signed_by",
+      "meta": {
+        "text": "Liverpool signed Tim Cook for $4335 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Lionel Messi",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Lionel Messi for $4951 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in France.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Paris",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Paris.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX detected phishing campaigns in Paris.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Liverpool",
+      "target": "Narendra Modi",
+      "label": "signed_by",
+      "meta": {
+        "text": "Liverpool signed Narendra Modi for $2587 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Tim Cook",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Tim Cook for $3159 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Harvard introduced AI curriculum with Amazon.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "USA signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "USA signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Lionel Messi announced new reforms in USA.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IISc Bangalore launched robotics center in Sydney.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Oxford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Tesla partnered with Oxford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "Japan",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in Japan.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "OpenAI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Microsoft invested $808 million in OpenAI.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Microsoft",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Microsoft.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Microsoft",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Microsoft.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "Canada funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in France.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Berlin",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Berlin.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Japan",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Lionel Messi won the championship in Japan.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "UK funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Chennai Super Kings",
+      "label": "scored_for",
+      "meta": {
+        "text": "Tim Cook scored twice for Chennai Super Kings.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Australia",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Emmanuel Macron announced new reforms in Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tesla announced next-gen AI chips in Toronto.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IIT Bombay launched robotics center in Paris.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Google announced next-gen AI chips in Toronto.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Stanford introduced AI curriculum with Apple.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "SpaceX",
+      "label": "acquired",
+      "meta": {
+        "text": "Meta acquired SpaceX for $118 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in USA.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oracle launched a satellite from New York.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "MIT launched robotics center in London.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Mark Zuckerberg",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Mark Zuckerberg for $4090 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "Apple opened a new office in Toronto.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Intel announced next-gen AI chips in Paris.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "MIT launched robotics center in New York.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "UAE",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in UAE.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Uber",
+      "label": "partnered_with",
+      "meta": {
+        "text": "OpenAI partnered with Uber to expand in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Brazil announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "SpaceX opened a new office in Toronto.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "OpenAI",
+      "label": "acquired",
+      "meta": {
+        "text": "Tesla acquired OpenAI for $4830 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM introduced an enterprise AI assistant.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "SpaceX signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "SpaceX signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung announced next-gen AI chips in Singapore.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "ristiano Ronaldo",
+      "target": "Inter Miami",
+      "label": "scored_for",
+      "meta": {
+        "text": "Cristiano Ronaldo scored twice for Inter Miami.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Sundar Pichai",
+      "label": "met_with",
+      "meta": {
+        "text": "Mark Zuckerberg met Sundar Pichai in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "China signed a trade pact with USA.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "label": "signed_by",
+      "meta": {
+        "text": "China signed a trade pact with USA.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in Singapore.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Sydney",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Sydney.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "NVIDIA",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with NVIDIA for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "UAE",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in UAE.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Singapore",
+      "label": "visited",
+      "meta": {
+        "text": "Tim Cook visited Singapore for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich introduced AI curriculum with Microsoft.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Adobe",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Adobe.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Adobe",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Adobe.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Cambridge",
+      "target": "IBM",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Cambridge partnered with IBM on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "Samsung",
+      "label": "acquired",
+      "meta": {
+        "text": "NVIDIA acquired Samsung for $2926 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Intel launched a new AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Oracle",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Uber partnered with Oracle to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tim Cook announced new reforms in China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Meta",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Meta for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Intel detected phishing campaigns in Sydney.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "OpenAI announced next-gen AI chips in Berlin.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "Australia",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in Australia.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "SpaceX",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oxford partnered with SpaceX on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "IISc Bangalore",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Intel partnered with IISc Bangalore on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "Inter Miami",
+      "label": "defeated",
+      "meta": {
+        "text": "Real Madrid defeated Inter Miami in Berlin.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Liverpool",
+      "target": "Toronto",
+      "label": "defeated",
+      "meta": {
+        "text": "Liverpool defeated Liverpool in Toronto.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "ren",
+      "label": "scored_for",
+      "meta": {
+        "text": "Narendra Modi scored twice for Real Madrid.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Germany",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "Germany funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Canada announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Mark Zuckerberg announced new reforms in Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Canada",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Japan signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Canada",
+      "label": "signed_by",
+      "meta": {
+        "text": "Japan signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "OpenAI signed a logistics deal in Germany.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "OpenAI signed a logistics deal in Germany.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "Spotify",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Microsoft partnered with Spotify to expand in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "IIT Bombay",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Spotify partnered with IIT Bombay on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "IBM",
+      "label": "acquired",
+      "meta": {
+        "text": "Google acquired IBM for $2472 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Amazon partnered with Salesforce to expand in France.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Real Madrid",
+      "label": "defeated",
+      "meta": {
+        "text": "PSG defeated Real Madrid in New York.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Barcelona",
+      "label": "defeated",
+      "meta": {
+        "text": "Chennai Super Kings defeated Barcelona in Tokyo.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "rist",
+      "target": "France",
+      "label": "visited",
+      "meta": {
+        "text": "Cristiano Ronaldo visited France for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Australia",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Uber partnered with Uber to expand in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Salesforce for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in Canada.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Spotify launched a satellite from London.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Mark Zuckerberg",
+      "label": "met_with",
+      "meta": {
+        "text": "Lionel Messi met Mark Zuckerberg in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Oracle",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Apple partnered with Oracle to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "PSG",
+      "label": "defeated",
+      "meta": {
+        "text": "Mumbai Indians defeated PSG in New York.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "Brazil",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in Brazil.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "IIT Bombay",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Apple partnered with IIT Bombay on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "USA",
+      "label": "visited",
+      "meta": {
+        "text": "Emmanuel Macron visited USA for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "China announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IIT Bombay launched robotics center in Berlin.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Mark Zuckerberg",
+      "label": "signed_by",
+      "meta": {
+        "text": "Inter Miami signed Mark Zuckerberg for $3781 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Germany",
+      "label": "visited",
+      "meta": {
+        "text": "Sam Altman visited Germany for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in France.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Japan signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "Japan signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "OpenAI detected phishing campaigns in Sydney.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Mumbai Indians",
+      "label": "scored_for",
+      "meta": {
+        "text": "Jensen Huang scored twice for Mumbai Indians.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "ST",
+      "label": "funded",
+      "meta": {
+        "text": "Australia funded STEM scholarships nationwide.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "Airbnb opened a new office in Toronto.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Airb",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung invested $2532 million in Airbnb.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sa",
+      "target": "tya Nadella",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Satya Nadella announced new reforms in USA.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "UAE",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Mark Zuckerberg won the championship in UAE.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Google",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Google for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Tesla",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IISc Bangalore partnered with Tesla on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Naren",
+      "label": "signed_by",
+      "meta": {
+        "text": "PSG signed Narendra Modi for $4942 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UAE announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "SpaceX",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Microsoft invested $2192 million in SpaceX.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "Dubai",
+      "label": "defeated",
+      "meta": {
+        "text": "Mumbai Indians defeated Mumbai Indians in Dubai.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "India",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in India.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Google",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Salesforce partnered with Google to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sa",
+      "target": "ty",
+      "label": "met_with",
+      "meta": {
+        "text": "Satya Nadella met Lionel Messi in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Microsoft",
+      "label": "acquired",
+      "meta": {
+        "text": "Adobe acquired Microsoft for $542 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "UK signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "UK signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "USA",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Amazon signed a logistics deal in USA.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "USA",
+      "label": "signed_by",
+      "meta": {
+        "text": "Amazon signed a logistics deal in USA.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "UK",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in UK.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "France",
+      "label": "visited",
+      "meta": {
+        "text": "Tim Cook visited France for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "Dubai",
+      "label": "hosted",
+      "meta": {
+        "text": "UAE hosted a diplomatic summit in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Berlin",
+      "label": "located_in",
+      "meta": {
+        "text": "SpaceX opened a new office in Berlin.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Oracle",
+      "label": "acquired",
+      "meta": {
+        "text": "Tesla acquired Oracle for $4024 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NVIDIA partnered with Salesforce to expand in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich launched robotics center in Sydney.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Harvard launched robotics center in Dubai.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Apple launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta announced next-gen AI chips in Singapore.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "OpenAI",
+      "label": "partnered_with",
+      "meta": {
+        "text": "MIT partnered with OpenAI on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Oracle signed a logistics deal in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "Oracle signed a logistics deal in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM launched a satellite from Singapore.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Samsung",
+      "label": "partnered_with",
+      "meta": {
+        "text": "ETH Zurich partnered with Samsung on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Brazil signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "Brazil signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Mumbai Indians",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Mumbai Indians in London.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Apple",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Intel invested $2172 million in Apple.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "New York",
+      "label": "defeated",
+      "meta": {
+        "text": "Real Madrid defeated Real Madrid in New York.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tesla launched a satellite from Dubai.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "Singapore",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "NVIDIA signed a logistics deal in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "Singapore",
+      "label": "signed_by",
+      "meta": {
+        "text": "NVIDIA signed a logistics deal in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oxford introduced AI curriculum with NVIDIA.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich launched robotics center in London.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Spotify",
+      "label": "acquired",
+      "meta": {
+        "text": "OpenAI acquired Spotify for $2188 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Lionel Messi announced new reforms in China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oxford launched robotics center in New York.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Apple detected phishing campaigns in London.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "China",
+      "target": "New York",
+      "label": "hosted",
+      "meta": {
+        "text": "China hosted a diplomatic summit in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "New York",
+      "label": "hosted",
+      "meta": {
+        "text": "Brazil hosted a diplomatic summit in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Meta",
+      "label": "partnered_with",
+      "meta": {
+        "text": "SpaceX partnered with Meta to expand in Brazil.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "China",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Adobe signed a logistics deal in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "China",
+      "label": "signed_by",
+      "meta": {
+        "text": "Adobe signed a logistics deal in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oxford launched robotics center in Toronto.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "OpenAI",
+      "label": "acquired",
+      "meta": {
+        "text": "Uber acquired OpenAI for $2335 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "China",
+      "label": "visited",
+      "meta": {
+        "text": "Mark Zuckerberg visited China for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Sa",
+      "target": "Japan",
+      "label": "visited",
+      "meta": {
+        "text": "Satya Nadella visited Japan for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IIT Bombay partnered with Airbnb on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "MIT",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Adobe partnered with MIT on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Apple",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta invested $4841 million in Apple.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Na",
+      "label": "met_with",
+      "meta": {
+        "text": "Sam Altman met Narendra Modi in Paris.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Airbnb for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in Canada.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Apple",
+      "label": "acquired",
+      "meta": {
+        "text": "Spotify acquired Apple for $1895 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Google",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Intel partnered with Google to expand in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "El",
+      "label": "met_with",
+      "meta": {
+        "text": "Sam Altman met Elon Musk in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "Germany",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in Germany.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "OpenAI",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with OpenAI.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "OpenAI",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with OpenAI.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "France",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "France announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "IBM",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb invested $3622 million in IBM.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "Dubai",
+      "label": "hosted",
+      "meta": {
+        "text": "Canada hosted a diplomatic summit in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Sa",
+      "target": "Singapore",
+      "label": "visited",
+      "meta": {
+        "text": "Satya Nadella visited Singapore for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Toronto.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Sa",
+      "label": "met_with",
+      "meta": {
+        "text": "Jensen Huang met Satya Nadella in Berlin.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IISc Bangalore launched robotics center in Tokyo.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Google",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Spotify invested $4882 million in Google.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "IBM",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Uber partnered with IBM to expand in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IIT Bombay launched robotics center in Singapore.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "rendra Modi",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Narendra Modi announced new reforms in India.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Samsung",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe invested $3304 million in Samsung.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "MIT launched robotics center in Mumbai.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Tim Cook",
+      "label": "met_with",
+      "meta": {
+        "text": "Mark Zuckerberg met Tim Cook in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "Oracle opened a new office in London.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "Mark Zuckerberg",
+      "label": "signed_by",
+      "meta": {
+        "text": "Real Madrid signed Mark Zuckerberg for $4125 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IISc Bangalore introduced AI curriculum with IBM.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Apple detected phishing campaigns in Dubai.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung announced next-gen AI chips in Dubai.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Salesforce",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber invested $4043 million in Salesforce.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "Brazil",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in Brazil.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "Salesforce opened a new office in London.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sundar Pichai won the championship in USA.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "Sam Altman",
+      "label": "signed_by",
+      "meta": {
+        "text": "Real Madrid signed Sam Altman for $4273 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "NVIDIA launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Harvard",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oracle partnered with Harvard on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Sam Altman",
+      "label": "met_with",
+      "meta": {
+        "text": "Tim Cook met Sam Altman in Toronto.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "UAE",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in UAE.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Dubai",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Dubai.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oracle announced next-gen AI chips in Toronto.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "OpenAI",
+      "label": "acquired",
+      "meta": {
+        "text": "Salesforce acquired OpenAI for $4031 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "UAE",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Uber signed a logistics deal in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "UAE",
+      "label": "signed_by",
+      "meta": {
+        "text": "Uber signed a logistics deal in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Salesforce partnered with Airbnb to expand in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ristiano Ronaldo",
+      "target": "Mumbai Indians",
+      "label": "scored_for",
+      "meta": {
+        "text": "Cristiano Ronaldo scored twice for Mumbai Indians.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber detected phishing campaigns in Mumbai.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "UAE signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "UAE signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "India",
+      "target": "Sydney",
+      "label": "hosted",
+      "meta": {
+        "text": "India hosted a diplomatic summit in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Salesforce launched a satellite from New York.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon announced next-gen AI chips in Singapore.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Real Madrid",
+      "label": "scored_for",
+      "meta": {
+        "text": "Jensen Huang scored twice for Real Madrid.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "PSG",
+      "label": "defeated",
+      "meta": {
+        "text": "Chennai Super Kings defeated PSG in Sydney.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IIT Bombay launched robotics center in Tokyo.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tim Cook won the championship in France.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Satya Nadella",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Satya Nadella announced new reforms in China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Brazil",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sundar Pichai announced new reforms in Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "MIT",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Meta partnered with MIT on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "Toronto",
+      "label": "hosted",
+      "meta": {
+        "text": "Singapore hosted a diplomatic summit in Toronto.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "China",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Singapore signed a trade pact with China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "China",
+      "label": "signed_by",
+      "meta": {
+        "text": "Singapore signed a trade pact with China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Dubai",
+      "label": "located_in",
+      "meta": {
+        "text": "OpenAI opened a new office in Dubai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "SpaceX",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with SpaceX for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "Sundar Pichai",
+      "label": "signed_by",
+      "meta": {
+        "text": "Real Madrid signed Sundar Pichai for $408 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Joe Biden won the championship in Canada.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "Inter Miami",
+      "label": "defeated",
+      "meta": {
+        "text": "Mumbai Indians defeated Inter Miami in Berlin.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "India",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Salesforce signed a logistics deal in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "India",
+      "label": "signed_by",
+      "meta": {
+        "text": "Salesforce signed a logistics deal in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "rendra Modi",
+      "label": "met_with",
+      "meta": {
+        "text": "Narendra Modi met Sam Altman in Mumbai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Brazil",
+      "label": "visited",
+      "meta": {
+        "text": "Mark Zuckerberg visited Brazil for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Airbnb",
+      "label": "acquired",
+      "meta": {
+        "text": "Apple acquired Airbnb for $4756 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Google detected phishing campaigns in Paris.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "IIT Bombay",
+      "label": "partnered_with",
+      "meta": {
+        "text": "SpaceX partnered with IIT Bombay on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Barcelona",
+      "label": "scored_for",
+      "meta": {
+        "text": "Lionel Messi scored twice for Barcelona.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Real Madrid",
+      "label": "defeated",
+      "meta": {
+        "text": "Chennai Super Kings defeated Real Madrid in Toronto.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "AI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IIT Bombay introduced AI curriculum with Spotify.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "SpaceX",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM invested $232 million in SpaceX.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "London",
+      "label": "met_with",
+      "meta": {
+        "text": "Emmanuel Macron met Emmanuel Macron in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "VIDIA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Apple invested $1765 million in NVIDIA.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "Berlin",
+      "label": "hosted",
+      "meta": {
+        "text": "Australia hosted a diplomatic summit in Berlin.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in China.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Meta signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "Meta signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in London.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Joe Biden",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Joe Biden for $1617 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Singapore",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Singapore.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "Adobe",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Stanford partnered with Adobe on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Salesforce",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX invested $4370 million in Salesforce.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "France",
+      "label": "visited",
+      "meta": {
+        "text": "Virat Kohli visited France for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "ren",
+      "label": "met_with",
+      "meta": {
+        "text": "Narendra Modi met Lionel Messi in Tokyo.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Canada",
+      "label": "visited",
+      "meta": {
+        "text": "Emmanuel Macron visited Canada for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "NVIDIA launched a satellite from Sydney.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in China.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Emmanuel Macron",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Emmanuel Macron for $1559 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Interpol",
+      "target": "UK",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Interpol arrested cybercrime suspects in UK.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "London",
+      "label": "hosted",
+      "meta": {
+        "text": "Japan hosted a diplomatic summit in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Real Madrid",
+      "label": "scored_for",
+      "meta": {
+        "text": "Emmanuel Macron scored twice for Real Madrid.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "Cambridge",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Microsoft partnered with Cambridge on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in Singapore.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "Singapore",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Australia signed a trade pact with Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "Singapore",
+      "label": "signed_by",
+      "meta": {
+        "text": "Australia signed a trade pact with Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "El",
+      "label": "signed_by",
+      "meta": {
+        "text": "Real Madrid signed Elon Musk for $1275 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "rendra",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Narendra Modi won the championship in Brazil.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Toronto",
+      "label": "hosted",
+      "meta": {
+        "text": "China hosted a diplomatic summit in Toronto.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Mumbai",
+      "label": "located_in",
+      "meta": {
+        "text": "Airbnb opened a new office in Mumbai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Microsoft",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX invested $3563 million in Microsoft.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "ristiano Ronaldo",
+      "label": "signed_by",
+      "meta": {
+        "text": "PSG signed Cristiano Ronaldo for $1201 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "MIT launched robotics center in Dubai.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Samsung",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IISc Bangalore partnered with Samsung on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Intel",
+      "label": "acquired",
+      "meta": {
+        "text": "Spotify acquired Intel for $2365 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "France",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "France signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "France",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "France signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Berlin",
+      "label": "hosted",
+      "meta": {
+        "text": "UK hosted a diplomatic summit in Berlin.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Google",
+      "label": "acquired",
+      "meta": {
+        "text": "Samsung acquired Google for $3354 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Sa",
+      "label": "met_with",
+      "meta": {
+        "text": "Lionel Messi met Satya Nadella in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "AI",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Salesforce expanded cloud AI services in Singapore.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Sa",
+      "label": "met_with",
+      "meta": {
+        "text": "Sam Altman met Satya Nadella in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Brazil",
+      "label": "visited",
+      "meta": {
+        "text": "Emmanuel Macron visited Brazil for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Microsoft",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe invested $3679 million in Microsoft.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Airbnb",
+      "label": "acquired",
+      "meta": {
+        "text": "IBM acquired Airbnb for $1069 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "Oxford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Microsoft partnered with Oxford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "China signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "label": "signed_by",
+      "meta": {
+        "text": "China signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb launched a new AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Tesla",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Tesla.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Tesla",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Tesla.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "China",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "UAE signed a trade pact with China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UAE",
+      "target": "China",
+      "label": "signed_by",
+      "meta": {
+        "text": "UAE signed a trade pact with China.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Singapore signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "Singapore signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Tesla",
+      "label": "acquired",
+      "meta": {
+        "text": "Oracle acquired Tesla for $2620 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "Google",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oxford partnered with Google on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Stanford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Apple partnered with Stanford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Australia signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "Australia signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Samsung",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Samsung.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Samsung",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Samsung.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "New York",
+      "label": "located_in",
+      "meta": {
+        "text": "Airbnb opened a new office in New York.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Mark Zuckerberg announced new reforms in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oxford launched robotics center in Berlin.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "New York",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in New York.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Inter Miami",
+      "label": "defeated",
+      "meta": {
+        "text": "Chennai Super Kings defeated Inter Miami in Paris.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oxford launched robotics center in Sydney.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "ETH Zurich",
+      "label": "partnered_with",
+      "meta": {
+        "text": "SpaceX partnered with ETH Zurich on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "ira",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Virat Kohli for $4273 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "rist",
+      "target": "India",
+      "label": "visited",
+      "meta": {
+        "text": "Cristiano Ronaldo visited India for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Oxford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oracle partnered with Oxford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "IBM",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with IBM for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Stanford launched robotics center in Paris.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "VIDIA",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IBM partnered with NVIDIA to expand in Germany.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Lionel Messi",
+      "label": "met_with",
+      "meta": {
+        "text": "Sundar Pichai met Lionel Messi in Mumbai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "India",
+      "label": "partnered_with",
+      "meta": {
+        "text": "SpaceX partnered with SpaceX to expand in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Chennai Super Kings",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sundar Pichai scored twice for Chennai Super Kings.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "IBM",
+      "label": "acquired",
+      "meta": {
+        "text": "Meta acquired IBM for $1261 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "IBM",
+      "label": "partnered_with",
+      "meta": {
+        "text": "MIT partnered with IBM on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Google detected phishing campaigns in Singapore.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "Sydney",
+      "label": "defeated",
+      "meta": {
+        "text": "Mumbai Indians defeated Mumbai Indians in Sydney.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "Brazil",
+      "label": "visited",
+      "meta": {
+        "text": "Narendra Modi visited Brazil for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich launched robotics center in Paris.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Spotify",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Spotify.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Spotify",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Spotify.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Paris",
+      "label": "located_in",
+      "meta": {
+        "text": "IBM opened a new office in Paris.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Sydney",
+      "label": "located_in",
+      "meta": {
+        "text": "Uber opened a new office in Sydney.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Tokyo",
+      "label": "located_in",
+      "meta": {
+        "text": "IBM opened a new office in Tokyo.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Chennai Super Kings",
+      "label": "defeated",
+      "meta": {
+        "text": "PSG defeated Chennai Super Kings in Mumbai.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "IBM opened a new office in Toronto.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Sundar Pichai",
+      "label": "met_with",
+      "meta": {
+        "text": "Emmanuel Macron met Sundar Pichai in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Tim Cook",
+      "label": "met_with",
+      "meta": {
+        "text": "Jensen Huang met Tim Cook in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Intel",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IISc Bangalore partnered with Intel on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "ETH Zurich partnered with Salesforce on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe introduced an enterprise AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Paris",
+      "label": "located_in",
+      "meta": {
+        "text": "Adobe opened a new office in Paris.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Cambridge",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Cambridge launched robotics center in Toronto.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Apple",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM invested $2931 million in Apple.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Airb",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon invested $3456 million in Airbnb.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "UK",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Mark Zuckerberg announced new reforms in UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Apple",
+      "label": "acquired",
+      "meta": {
+        "text": "Uber acquired Apple for $4724 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb launched a satellite from Dubai.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Uber",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IISc Bangalore partnered with Uber on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Germany",
+      "label": "visited",
+      "meta": {
+        "text": "Sundar Pichai visited Germany for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "USA",
+      "label": "visited",
+      "meta": {
+        "text": "Jensen Huang visited USA for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Adobe",
+      "label": "partnered_with",
+      "meta": {
+        "text": "ETH Zurich partnered with Adobe on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Harvard launched robotics center in Paris.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "NVIDIA introduced an enterprise AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Joe Biden won the championship in France.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "London",
+      "label": "hosted",
+      "meta": {
+        "text": "Australia hosted a diplomatic summit in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "El",
+      "target": "on Musk",
+      "label": "met_with",
+      "meta": {
+        "text": "Elon Musk met Satya Nadella in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Microsoft",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Google partnered with Microsoft to expand in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Harvard launched robotics center in Tokyo.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "SpaceX",
+      "label": "acquired",
+      "meta": {
+        "text": "Samsung acquired SpaceX for $3942 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta detected phishing campaigns in Paris.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "MIT launched robotics center in Berlin.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "ristiano Ronaldo",
+      "target": "PSG",
+      "label": "scored_for",
+      "meta": {
+        "text": "Cristiano Ronaldo scored twice for PSG.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Germany",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Germany announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Sa",
+      "target": "Germany",
+      "label": "visited",
+      "meta": {
+        "text": "Satya Nadella visited Germany for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "Tesla",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NVIDIA partnered with Tesla to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Tesla",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Harvard partnered with Tesla on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oracle launched a satellite from Mumbai.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Microsoft",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Google invested $2602 million in Microsoft.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Singapore",
+      "label": "located_in",
+      "meta": {
+        "text": "Samsung opened a new office in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Inter Miami",
+      "label": "scored_for",
+      "meta": {
+        "text": "Jensen Huang scored twice for Inter Miami.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Dubai",
+      "label": "met_with",
+      "meta": {
+        "text": "Sam Altman met Sam Altman in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Intel",
+      "label": "partnered_with",
+      "meta": {
+        "text": "ETH Zurich partnered with Intel on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Mumbai Indians",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sundar Pichai scored twice for Mumbai Indians.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Berlin",
+      "label": "located_in",
+      "meta": {
+        "text": "Spotify opened a new office in Berlin.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "China",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in China.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sundar Pichai announced new reforms in Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "ristiano Ronaldo",
+      "label": "met_with",
+      "meta": {
+        "text": "Jensen Huang met Cristiano Ronaldo in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "Barcelona",
+      "label": "defeated",
+      "meta": {
+        "text": "Mumbai Indians defeated Barcelona in Tokyo.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Airb",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Intel invested $3202 million in Airbnb.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Paris",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Inter Miami in Paris.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "rist",
+      "target": "UK",
+      "label": "visited",
+      "meta": {
+        "text": "Cristiano Ronaldo visited UK for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Canada",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Jensen Huang announced new reforms in Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "Paris",
+      "label": "hosted",
+      "meta": {
+        "text": "Canada hosted a diplomatic summit in Paris.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX detected phishing campaigns in Dubai.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX launched a new AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Samsung",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IBM partnered with Samsung to expand in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Emmanuel Macron won the championship in USA.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Stanford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Intel partnered with Stanford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Tim Cook",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Tim Cook for $3029 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "Japan",
+      "label": "visited",
+      "meta": {
+        "text": "Narendra Modi visited Japan for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "WHO",
+      "target": "Japan",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "WHO approved a vaccine trial in Japan.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Stanford launched robotics center in Toronto.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Jensen Huang",
+      "label": "met_with",
+      "meta": {
+        "text": "Mark Zuckerberg met Jensen Huang in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "IIT Bombay",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IBM partnered with IIT Bombay on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Mumbai Indians",
+      "label": "defeated",
+      "meta": {
+        "text": "PSG defeated Mumbai Indians in Mumbai.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "Tesla",
+      "label": "acquired",
+      "meta": {
+        "text": "Microsoft acquired Tesla for $2642 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Meta",
+      "label": "partnered_with",
+      "meta": {
+        "text": "ETH Zurich partnered with Meta on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Intel partnered with Airbnb to expand in France.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "IISc Bangalore",
+      "label": "partnered_with",
+      "meta": {
+        "text": "OpenAI partnered with IISc Bangalore on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb launched a satellite from Tokyo.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Chennai Super Kings",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sam Altman scored twice for Chennai Super Kings.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Salesforce launched a satellite from Paris.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "ren",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Narendra Modi won the championship in UAE.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Cambridge",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Samsung partnered with Cambridge on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "IISc Bangalore",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Google partnered with IISc Bangalore on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Airbnb signed a logistics deal in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "Airbnb signed a logistics deal in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Na",
+      "target": "Singapore",
+      "label": "visited",
+      "meta": {
+        "text": "Narendra Modi visited Singapore for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "UAE",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Joe Biden announced new reforms in UAE.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Salesforce",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IISc Bangalore partnered with Salesforce on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Microsoft",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb invested $4973 million in Microsoft.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Meta",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Meta.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Meta",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Meta.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "Samsung",
+      "label": "acquired",
+      "meta": {
+        "text": "Microsoft acquired Samsung for $1640 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Intel",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Intel for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Sa",
+      "label": "met_with",
+      "meta": {
+        "text": "Emmanuel Macron met Satya Nadella in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "IIT Bombay",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NVIDIA partnered with IIT Bombay on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "Tesla",
+      "label": "partnered_with",
+      "meta": {
+        "text": "MIT partnered with Tesla on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Microsoft",
+      "label": "acquired",
+      "meta": {
+        "text": "Intel acquired Microsoft for $1021 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Meta",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oracle invested $1474 million in Meta.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "VIDIA",
+      "target": "OpenAI",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "NVIDIA invested $294 million in OpenAI.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "China",
+      "label": "visited",
+      "meta": {
+        "text": "Lionel Messi visited China for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "MIT",
+      "target": "SpaceX",
+      "label": "partnered_with",
+      "meta": {
+        "text": "MIT partnered with SpaceX on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Intel",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM invested $3426 million in Intel.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber detected phishing campaigns in Paris.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "ira",
+      "label": "met_with",
+      "meta": {
+        "text": "Lionel Messi met Virat Kohli in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IISc Bangalore",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IISc Bangalore launched robotics center in Paris.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Tokyo",
+      "label": "located_in",
+      "meta": {
+        "text": "Apple opened a new office in Tokyo.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "IISc Bangalore",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Amazon partnered with IISc Bangalore on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Salesforce launched a satellite from London.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Singapore",
+      "label": "located_in",
+      "meta": {
+        "text": "Intel opened a new office in Singapore.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "UAE",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "OpenAI signed a logistics deal in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "UAE",
+      "label": "signed_by",
+      "meta": {
+        "text": "OpenAI signed a logistics deal in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Apple",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Apple launched a satellite from Paris.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Amazon",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Amazon for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Liverpool",
+      "label": "scored_for",
+      "meta": {
+        "text": "Jensen Huang scored twice for Liverpool.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon launched a satellite from Berlin.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "China",
+      "label": "visited",
+      "meta": {
+        "text": "Joe Biden visited China for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "France signed a trade pact with USA.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "label": "signed_by",
+      "meta": {
+        "text": "France signed a trade pact with USA.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Spotify",
+      "label": "acquired",
+      "meta": {
+        "text": "SpaceX acquired Spotify for $4045 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Na",
+      "label": "met_with",
+      "meta": {
+        "text": "Tim Cook met Narendra Modi in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Apple",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Apple for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Canada",
+      "label": "visited",
+      "meta": {
+        "text": "Mark Zuckerberg visited Canada for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Spotify launched a satellite from Mumbai.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Airbnb detected phishing campaigns in New York.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Google",
+      "label": "acquired",
+      "meta": {
+        "text": "Salesforce acquired Google for $1570 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Real Madrid",
+      "label": "scored_for",
+      "meta": {
+        "text": "Lionel Messi scored twice for Real Madrid.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Samsung",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Google invested $1102 million in Samsung.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Apple",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Adobe partnered with Apple to expand in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Spotify",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Spotify for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "USA",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "USA signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "USA",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "USA signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Paris",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "OpenAI launched a satellite from Paris.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Apollo Hospitals",
+      "target": "Mumbai",
+      "label": "located_in",
+      "meta": {
+        "text": "Apollo Hospitals opened a research center in Mumbai.",
+        "category": "health"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "ristiano Ronaldo",
+      "label": "signed_by",
+      "meta": {
+        "text": "Inter Miami signed Cristiano Ronaldo for $1614 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "France",
+      "target": "Sydney",
+      "label": "hosted",
+      "meta": {
+        "text": "France hosted a diplomatic summit in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Australia",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Lionel Messi won the championship in Australia.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Australia",
+      "label": "visited",
+      "meta": {
+        "text": "Sam Altman visited Australia for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "Singapore",
+      "label": "hosted",
+      "meta": {
+        "text": "Canada hosted a diplomatic summit in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "AI",
+      "target": "UAE",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Salesforce expanded cloud AI services in UAE.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich launched robotics center in Tokyo.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Brazil",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Amazon signed a logistics deal in Brazil.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Brazil",
+      "label": "signed_by",
+      "meta": {
+        "text": "Amazon signed a logistics deal in Brazil.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "USA",
+      "label": "visited",
+      "meta": {
+        "text": "Virat Kohli visited USA for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IIT Bombay",
+      "target": "Intel",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IIT Bombay partnered with Intel on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Berlin",
+      "label": "defeated",
+      "meta": {
+        "text": "Barcelona defeated Barcelona in Berlin.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Amazon",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe invested $2540 million in Amazon.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Samsung",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Samsung for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "Salesforce",
+      "label": "acquired",
+      "meta": {
+        "text": "NVIDIA acquired Salesforce for $3492 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Dubai",
+      "label": "located_in",
+      "meta": {
+        "text": "Oracle opened a new office in Dubai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Australia announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Cambridge",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Google partnered with Cambridge on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Lionel Messi won the championship in France.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Amazon",
+      "label": "acquired",
+      "meta": {
+        "text": "Tesla acquired Amazon for $4954 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Stanford launched robotics center in Sydney.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Mars",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UK announced a Mars research program.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Mumbai Indians",
+      "target": "Lionel Messi",
+      "label": "signed_by",
+      "meta": {
+        "text": "Mumbai Indians signed Lionel Messi for $2256 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "IBM detected phishing campaigns in Dubai.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Lionel Messi",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Lionel Messi for $2035 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "SpaceX",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "OpenAI invested $1665 million in SpaceX.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "PSG",
+      "label": "scored_for",
+      "meta": {
+        "text": "Mark Zuckerberg scored twice for PSG.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Toronto",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Inter Miami in Toronto.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Tokyo",
+      "label": "located_in",
+      "meta": {
+        "text": "Amazon opened a new office in Tokyo.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Canada",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Intel signed a logistics deal in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Canada",
+      "label": "signed_by",
+      "meta": {
+        "text": "Intel signed a logistics deal in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "AI",
+      "target": "Australia",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Salesforce expanded cloud AI services in Australia.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "OpenAI",
+      "label": "acquired",
+      "meta": {
+        "text": "IBM acquired OpenAI for $507 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Oracle",
+      "label": "acquired",
+      "meta": {
+        "text": "Uber acquired Oracle for $1997 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Narendra Modi",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Narendra Modi for $2857 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "IISc Bangalore",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oracle partnered with IISc Bangalore on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Canada",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "UK signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Canada",
+      "label": "signed_by",
+      "meta": {
+        "text": "UK signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Oxford",
+      "target": "Tokyo",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oxford launched robotics center in Tokyo.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Microsoft",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Microsoft for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Salesforce",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon invested $3569 million in Salesforce.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Liverpool",
+      "label": "defeated",
+      "meta": {
+        "text": "Barcelona defeated Liverpool in Tokyo.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX detected phishing campaigns in London.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "USA",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Mark Zuckerberg won the championship in USA.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "USA",
+      "label": "visited",
+      "meta": {
+        "text": "Tim Cook visited USA for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Berlin",
+      "label": "located_in",
+      "meta": {
+        "text": "Uber opened a new office in Berlin.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Oracle detected phishing campaigns in Toronto.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Samsung launched a satellite from Berlin.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "IBM opened a new office in London.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Germany",
+      "target": "Tokyo",
+      "label": "hosted",
+      "meta": {
+        "text": "Germany hosted a diplomatic summit in Tokyo.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Salesforce",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Salesforce.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Salesforce",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Salesforce.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Intel detected phishing campaigns in London.",
+        "category": "cyber"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Sam Altman",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Sam Altman for $112 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "ristiano Ronaldo",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Cristiano Ronaldo for $3567 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Dubai",
+      "label": "located_in",
+      "meta": {
+        "text": "IBM opened a new office in Dubai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Intel signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "Intel signed a logistics deal in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Tim Cook",
+      "label": "met_with",
+      "meta": {
+        "text": "Sam Altman met Tim Cook in Mumbai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich launched robotics center in Singapore.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tesla launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "UK",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in UK.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "Sydney",
+      "label": "hosted",
+      "meta": {
+        "text": "Australia hosted a diplomatic summit in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Cambridge",
+      "target": "New York",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Cambridge launched robotics center in New York.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "France",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Mark Zuckerberg announced new reforms in France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Spotify",
+      "label": "partnered_with",
+      "meta": {
+        "text": "SpaceX partnered with Spotify to expand in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "PSG",
+      "target": "Tim Cook",
+      "label": "signed_by",
+      "meta": {
+        "text": "PSG signed Tim Cook for $3268 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "Meta",
+      "label": "acquired",
+      "meta": {
+        "text": "Spotify acquired Meta for $4863 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Sydney",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe launched a satellite from Sydney.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Japan",
+      "target": "Berlin",
+      "label": "hosted",
+      "meta": {
+        "text": "Japan hosted a diplomatic summit in Berlin.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Liverpool",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Liverpool in Dubai.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Paris",
+      "label": "located_in",
+      "meta": {
+        "text": "SpaceX opened a new office in Paris.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Stanford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Meta partnered with Stanford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "India",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Adobe partnered with Adobe to expand in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "USA",
+      "label": "visited",
+      "meta": {
+        "text": "Sundar Pichai visited USA for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "France",
+      "target": "India",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "France signed a trade pact with India.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "France",
+      "target": "India",
+      "label": "signed_by",
+      "meta": {
+        "text": "France signed a trade pact with India.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Stanford",
+      "label": "partnered_with",
+      "meta": {
+        "text": "IBM partnered with Stanford on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Singapore signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Singapore",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "Singapore signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "London",
+      "label": "defeated",
+      "meta": {
+        "text": "Barcelona defeated Barcelona in London.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Spotify",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Airbnb partnered with Spotify to expand in UK.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "Meta",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Microsoft partnered with Meta to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "IBM",
+      "label": "acquired",
+      "meta": {
+        "text": "Tesla acquired IBM for $2347 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Mumbai",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Inter Miami in Mumbai.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "London",
+      "label": "hosted",
+      "meta": {
+        "text": "UK hosted a diplomatic summit in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Real Madrid",
+      "label": "defeated",
+      "meta": {
+        "text": "Inter Miami defeated Real Madrid in Berlin.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Lionel Messi",
+      "target": "Na",
+      "label": "met_with",
+      "meta": {
+        "text": "Lionel Messi met Narendra Modi in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "Samsung opened a new office in London.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "IBM",
+      "target": "Intel",
+      "label": "acquired",
+      "meta": {
+        "text": "IBM acquired Intel for $3301 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Canada signed a trade pact with France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "label": "signed_by",
+      "meta": {
+        "text": "Canada signed a trade pact with France.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Sam Altman",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Sam Altman for $4410 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sundar Pichai announced new reforms in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "OpenAI",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Harvard partnered with OpenAI on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "Lionel Messi",
+      "label": "met_with",
+      "meta": {
+        "text": "Joe Biden met Lionel Messi in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "ETH Zurich",
+      "target": "Dubai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "ETH Zurich launched robotics center in Dubai.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Oracle",
+      "target": "Apple",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Oracle partnered with Apple to expand in China.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Airbnb",
+      "target": "Samsung",
+      "label": "acquired",
+      "meta": {
+        "text": "Airbnb acquired Samsung for $2600 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "London",
+      "label": "met_with",
+      "meta": {
+        "text": "Mark Zuckerberg met Mark Zuckerberg in London.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "Tesla",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "OpenAI invested $949 million in Tesla.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "ira",
+      "target": "Germany",
+      "label": "visited",
+      "meta": {
+        "text": "Virat Kohli visited Germany for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Dubai",
+      "label": "hosted",
+      "meta": {
+        "text": "China hosted a diplomatic summit in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UN",
+      "target": "India",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "UN warned of rising temperatures in India.",
+        "category": "environment"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Airbnb",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "ESA signed a space contract with Airbnb.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "ESA",
+      "target": "Airbnb",
+      "label": "signed_by",
+      "meta": {
+        "text": "ESA signed a space contract with Airbnb.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Sydney",
+      "label": "located_in",
+      "meta": {
+        "text": "Meta opened a new office in Sydney.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Australia",
+      "target": "New York",
+      "label": "hosted",
+      "meta": {
+        "text": "Australia hosted a diplomatic summit in New York.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Jensen Huang",
+      "label": "met_with",
+      "meta": {
+        "text": "Tim Cook met Jensen Huang in Dubai.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Toronto",
+      "label": "located_in",
+      "meta": {
+        "text": "Google opened a new office in Toronto.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Salesforce",
+      "target": "Spotify",
+      "label": "acquired",
+      "meta": {
+        "text": "Salesforce acquired Spotify for $2973 million.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Paris",
+      "label": "located_in",
+      "meta": {
+        "text": "Intel opened a new office in Paris.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "India",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "India signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "India",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "India signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Amazon",
+      "target": "Apple",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Amazon invested $3885 million in Apple.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Cambridge",
+      "target": "Spotify",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Cambridge partnered with Spotify on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Berlin",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Uber launched a satellite from Berlin.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Toronto",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Meta launched a satellite from Toronto.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Singapore",
+      "label": "hosted",
+      "meta": {
+        "text": "Brazil hosted a diplomatic summit in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "Barcelona",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sam Altman scored twice for Barcelona.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Sydney",
+      "label": "located_in",
+      "meta": {
+        "text": "Intel opened a new office in Sydney.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "PSG",
+      "label": "scored_for",
+      "meta": {
+        "text": "Jensen Huang scored twice for PSG.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Amazon",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Harvard partnered with Amazon on innovation labs.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "NASA",
+      "target": "Oracle",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NASA partnered with Oracle for lunar missions.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Adobe",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Google partnered with Adobe to expand in France.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Tokyo",
+      "label": "located_in",
+      "meta": {
+        "text": "Samsung opened a new office in Tokyo.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "Dubai",
+      "label": "located_in",
+      "meta": {
+        "text": "Intel opened a new office in Dubai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Joe Biden",
+      "target": "Chennai Super Kings",
+      "label": "scored_for",
+      "meta": {
+        "text": "Joe Biden scored twice for Chennai Super Kings.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "India",
+      "target": "Brazil",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "India signed a trade pact with Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "India",
+      "target": "Brazil",
+      "label": "signed_by",
+      "meta": {
+        "text": "India signed a trade pact with Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "China signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "China signed a trade pact with Australia.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Canada",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Brazil signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Brazil",
+      "target": "Canada",
+      "label": "signed_by",
+      "meta": {
+        "text": "Brazil signed a trade pact with Canada.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "London",
+      "label": "located_in",
+      "meta": {
+        "text": "OpenAI opened a new office in London.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Germany",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "UK signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "UK",
+      "target": "Germany",
+      "label": "signed_by",
+      "meta": {
+        "text": "UK signed a trade pact with Germany.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Inter Miami",
+      "target": "Sun",
+      "label": "signed_by",
+      "meta": {
+        "text": "Inter Miami signed Sundar Pichai for $3731 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Stanford",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Stanford launched robotics center in London.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Sam Altman",
+      "target": "PSG",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sam Altman scored twice for PSG.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Tesla",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Tesla launched a satellite from Mumbai.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "India",
+      "target": "UK",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "India signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "India",
+      "target": "UK",
+      "label": "signed_by",
+      "meta": {
+        "text": "India signed a trade pact with UK.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Canada",
+      "label": "visited",
+      "meta": {
+        "text": "Tim Cook visited Canada for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Barcelona",
+      "target": "Joe Biden",
+      "label": "signed_by",
+      "meta": {
+        "text": "Barcelona signed Joe Biden for $4016 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Cambridge",
+      "target": "Singapore",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Cambridge launched robotics center in Singapore.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "Mumbai",
+      "label": "located_in",
+      "meta": {
+        "text": "Samsung opened a new office in Mumbai.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Microsoft",
+      "target": "AR",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Microsoft introduced an enterprise AR headset.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Intel",
+      "target": "IBM",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Intel partnered with IBM to expand in Canada.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Real Madrid",
+      "target": "Joe Biden",
+      "label": "signed_by",
+      "meta": {
+        "text": "Real Madrid signed Joe Biden for $4603 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Emmanuel Macron",
+      "target": "Jensen Huang",
+      "label": "met_with",
+      "meta": {
+        "text": "Emmanuel Macron met Jensen Huang in Singapore.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Adobe",
+      "target": "Salesforce",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Adobe invested $80 million in Salesforce.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Australia",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Google signed a logistics deal in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "Australia",
+      "label": "signed_by",
+      "meta": {
+        "text": "Google signed a logistics deal in Australia.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Brazil",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "China signed a trade pact with Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "China",
+      "target": "Brazil",
+      "label": "signed_by",
+      "meta": {
+        "text": "China signed a trade pact with Brazil.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Sa",
+      "target": "India",
+      "label": "visited",
+      "meta": {
+        "text": "Satya Nadella visited India for strategic talks.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "SpaceX",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "SpaceX launched a satellite from Mumbai.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Sundar Picha",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Sundar Pichai for $3221 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "Japan",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Sundar Pichai announced new reforms in Japan.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "France",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Meta partnered with Meta to expand in France.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "NVIDIA",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "NVIDIA partnered with Airbnb to expand in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Chennai Super Kings",
+      "target": "Jensen Huang",
+      "label": "signed_by",
+      "meta": {
+        "text": "Chennai Super Kings signed Jensen Huang for $864 million.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "OpenAI",
+      "target": "London",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "OpenAI launched a satellite from London.",
+        "category": "space"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "UAE",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Google signed a logistics deal in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Google",
+      "target": "UAE",
+      "label": "signed_by",
+      "meta": {
+        "text": "Google signed a logistics deal in UAE.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "Airbnb",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Uber partnered with Airbnb to expand in France.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Samsung",
+      "target": "MIT",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Samsung partnered with MIT on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Sundar Pichai",
+      "target": "PSG",
+      "label": "scored_for",
+      "meta": {
+        "text": "Sundar Pichai scored twice for PSG.",
+        "category": "sports"
+      }
+    },
+    {
+      "source": "Meta",
+      "target": "Harvard",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Meta partnered with Harvard on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Canada",
+      "target": "Sydney",
+      "label": "hosted",
+      "meta": {
+        "text": "Canada hosted a diplomatic summit in Sydney.",
+        "category": "politics"
+      }
+    },
+    {
+      "source": "Harvard",
+      "target": "Mumbai",
+      "label": "co_occurs_with",
+      "meta": {
+        "text": "Harvard launched robotics center in Mumbai.",
+        "category": "education"
+      }
+    },
+    {
+      "source": "Uber",
+      "target": "MIT",
+      "label": "partnered_with",
+      "meta": {
+        "text": "Uber partnered with MIT on AI research.",
+        "category": "ai"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "India",
+      "label": "signed_deal_with",
+      "meta": {
+        "text": "Spotify signed a logistics deal in India.",
+        "category": "business"
+      }
+    },
+    {
+      "source": "Spotify",
+      "target": "India",
+      "label": "signed_by",
+      "meta": {
+        "text": "Spotify signed a logistics deal in India.",
+        "category": "business"
+      }
+    }
+  ]
+}
